@@ -22,7 +22,8 @@
   },
   "homepage": "https://github.com/facelez1k/bookapp#readme",
   "dependencies": {
-    "axios": "^1.7.7"
+    "axios": "^1.7.7",
+    "on-change": "^5.0.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.10.0",
